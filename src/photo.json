@@ -1,0 +1,80 @@
+[
+		{
+			"id": "1",
+            "alt":"nature image 1",
+            "type":"Nature",
+			"url": "/images/1.jpg"
+		},
+		{
+			"id": "2",
+            "alt":"nature image 2",
+            "type":"Design",
+			"url": "/images/2.jpg"
+		},
+        {
+			"id": "3",
+            "alt":"nature image 3",
+            "type":"Design",
+			"url": "/images/3.jpg"
+		},
+        {
+			"id": "4",
+            "alt":"nature image 4",
+            "type":"Design",
+			"url": "/images/4.jpg"
+		},
+        {
+			"id": "5",
+            "alt":"nature image 5",
+            "type":"Design",
+			"url": "/images/5.jpg"
+		},
+        {
+			"id": "6",
+            "alt":"nature image 6",
+            "type":"Development",
+			"url": "/images/6.jpg"
+		},
+        {
+			"id": "7",
+            "alt":"nature image 7",
+            "type":"Development",
+			"url": "/images/7.jpg"
+		},
+        {
+			"id": "8",
+            "alt":"nature image 8",
+            "type":"Development",
+			"url": "/images/8.jpg"
+		},
+        {
+			"id": "9",
+            "alt":"nature image 9",
+            "type":"Development",
+			"url": "/images/9.jpg"
+		},
+        {
+			"id": "10",
+            "alt":"nature image 10",
+            "type":"Development",
+			"url": "/images/10.jpg"
+		},
+        {
+			"id": "11",
+            "alt":"Branding image 11",
+            "type":"Branding",
+			"url": "/images/11.png"
+		},
+        {
+			"id": "12",
+            "alt":"Branding image 12",
+            "type":"Branding",
+			"url": "/images/12.png"
+		},
+        {
+			"id": "13",
+            "alt":"Branding image 13",
+            "type":"Branding",
+			"url": "/images/13.jpg"
+		}
+]
